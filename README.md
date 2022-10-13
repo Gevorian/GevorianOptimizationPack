@@ -1,7 +1,7 @@
 # GevorianOptimizationPack
 Optimization pack for fresh install of windows
 
-Recommended Custom Windows ISO: https://discord.gg/ggos
+Recommended Custom Windows ISO: https://sites.google.com/view/meetrevision
 
 Link to pack:
-https://mega.nz/file/ZEoFga5J#sBQH8n-kSrKOd32c1DJsVkN03K4wuHxlXri4vBdInvY
+https://mega.nz/file/wFRyhaBC#Uq7X2jyrgPc2sdMg5dDjhYhvqQR1XIRgif3Wko0ClgY
