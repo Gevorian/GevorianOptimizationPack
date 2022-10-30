@@ -3,11 +3,11 @@ Optimization pack for fresh install of windows
 
 Recommended ISO's for Base:
 
-revi.cc - Windows 10 and 11 support
+http://revi.cc - Windows 10 and 11 support
 
-atlasos.net - Least download/instal size
+https://atlasos.net - Least download/instal size
 
-dsc.gg/ggos (lacks support for some programs, has custom windows theme)
+dsc.gg/ggos - (lacks support for some programs, has custom windows theme)
 
 
 Link to pack:
