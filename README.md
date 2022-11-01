@@ -5,7 +5,7 @@ Recommended ISO's for Base:
 
 http://revi.cc - Windows 10 and 11 support
 
-https://atlasos.net - Least download/instal size
+https://atlasos.net - Least download/instal size (Personal preference until ggOS is updated)
 
 dsc.gg/ggos - (lacks support for some programs, has custom windows theme)
 
