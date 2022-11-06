@@ -10,5 +10,5 @@ https://atlasos.net - Least download/instal size (Personal preference until ggOS
 dsc.gg/ggos - (lacks support for some programs, has custom windows theme)
 
 
-Link to pack:
-https://mega.nz/file/wFRyhaBC#Uq7X2jyrgPc2sdMg5dDjhYhvqQR1XIRgif3Wko0ClgY
+Link to Optimization Pack:
+https://mega.nz/file/ZQx3xL4K#v8dA2QUql9i1j2nwZx9CU1qf8DHxppGqNS112Yd_w_U
