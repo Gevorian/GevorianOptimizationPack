@@ -7,6 +7,8 @@ http://revi.cc - Windows 10 and 11 support
 
 https://atlasos.net - Least download/instal size (Personal preference until ggOS is updated)
 
+FoxOS: 22H2/1809 Versions: discord.gg/4Gg8n6WhPN 
+
 dsc.gg/ggos - (lacks support for some programs, has custom windows theme)
 
 
